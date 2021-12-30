@@ -21,12 +21,12 @@ navname: Console Tutorials
 ## Xbox
 <h3 id="dnsmethod1">DNS Method</h3>
 
-##### First Check If Your Network Is Compatible 
+#### First Check If Your Network Is Compatible 
 - Visit [https://ipv6-test.com/](https://ipv6-test.com/) in a browser while connected to your WiFi
 - If it says IPv6 Not supported This method will work for you! Continue on to the next steps.
 - If It says IPv6 Supported You will need to Disable IPv6 in your router's settings or try another method.
 
-##### How To Set It Up
+#### How To Set It Up
 - Open the settings on your Xbox
 - Go to the "Network" Section
 - Press "Network Settings"
@@ -50,12 +50,12 @@ Now You Are Able To Join Any Bedrock Server!
 
 <h3 id="androidmethod1">Android Method</h3>
 
-##### Getting Started
+#### Getting Started
 - Have a Working Android Device. (Tablet, Phone, Chromebook, etc...)
 - Download MC Server Connector on the Google Play Store 
 - Open The App
 
-##### How to Set It Up
+#### How to Set It Up
 - Under "Server Address" Enter play.loyalmc.net
 - Select "Start"
 - Go to your Homescreen of your Xbox and launch Minecraft
