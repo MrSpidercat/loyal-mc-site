@@ -18,9 +18,9 @@ cellLinks:
 
   - cname: Staff Application
     curl: 
-    cimage: media/demo03.jpg
+    cimage: media/staffapp.png
 
   - cname: Ban Appeal
     curl: 
-    cimage: media/demo03.jpg
+    cimage: media/banappeal.jpg
 ---
