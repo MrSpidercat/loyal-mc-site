@@ -29,6 +29,10 @@ siteNav:
      url: shop
    - name: Modpack
      url: modpack
+   - name: Staff Application
+     url:
+   - name: Ban Appeal
+     url:
    - name: About
      url: about
 #   - name: Server Map
