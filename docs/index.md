@@ -19,4 +19,8 @@ cellLinks:
   - cname: Other
     curl: 
     cimage: media/demo03.jpg
+
+  - cname: Other
+    curl: 
+    cimage: media/demo03.jpg
 ---
