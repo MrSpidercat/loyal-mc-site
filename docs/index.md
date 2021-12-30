@@ -10,7 +10,7 @@ cellLinks:
 
   - cname: Console Tutorials
     curl: tutorials
-    cimage: media/demo03.jpg
+    cimage: media/consoles.jpeg
 
   - cname: Modpack
     curl: modpack
