@@ -7,9 +7,9 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Loyal MC
+serverName: Loyal MC Survival
 serverDescription: Loyal MC is a Bedrock Edition and Java Edition Crossplay survival server that allows for both Minecraft editions to play together!  
-serverIP: mc.hypixel.net
+serverIP: play.loyalmc.net
 useBedrockForOnlineStatus: false
 
 
