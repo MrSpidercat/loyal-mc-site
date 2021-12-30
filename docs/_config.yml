@@ -25,8 +25,10 @@ discordChannelID: 817925193330458624
 # #   newtab - Whether link should open in new tab
 # 
 siteNav:
-   - name: Screenshots
-     url: screenshots
+   - name: Rank Shop
+     url: shop
+   - name: Modpack
+     url: modpack
    - name: About
      url: about
 #   - name: Server Map
