@@ -24,7 +24,7 @@ discordChannelID: 817925193330458624
 # #   url - The link it should go to (for example, if you have "maps.md" file, put "maps")
 # #   newtab - Whether link should open in new tab
 # 
- siteNav:
+siteNav:
    - name: Screenshots
      url: screenshots
    - name: About
