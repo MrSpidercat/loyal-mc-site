@@ -1,6 +1,7 @@
 :root {
     --lightcolor: #efefef;
     --green-900: #22543d;
+    color-scheme: dark;
 }
 
 html {
