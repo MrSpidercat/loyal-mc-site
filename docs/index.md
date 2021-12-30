@@ -15,4 +15,8 @@ cellLinks:
   - cname: Modpack
     curl: modpack
     cimage: media/demo03.jpg
+
+  - cname: Other
+    curl: 
+    cimage: media/demo03.jpg
 ---
