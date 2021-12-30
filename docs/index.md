@@ -17,10 +17,10 @@ cellLinks:
     cimage: media/demo03.jpg
 
   - cname: Staff Application
-    curl: 
+    curl:  staff-application
     cimage: media/staffapp.png
 
   - cname: Ban Appeal
-    curl: 
+    curl: ban-appeal
     cimage: media/banappeal.jpg
 ---
