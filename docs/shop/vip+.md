@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # VIP+
 ## Benefits
 - Incomplete

@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # MVP
 ## Benefits
 - Incomplete
