@@ -7,8 +7,8 @@ navname: Console Tutorials
 
 - [Xbox](#xbox)
   - [DNS Method](#dnsmethod1)
-  - [Android Method](androidmethod1)
-  - [Phantom Method](phantommethod1)
+  - [Android Method](#androidmethod1)
+  - [Phantom Method](#phantommethod1)
 - [PlayStation](#playstation)
   - [DNS Method](#dnsmethod2)
   - [Android Method](#androidmethod2)
