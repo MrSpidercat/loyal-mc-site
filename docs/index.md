@@ -16,11 +16,11 @@ cellLinks:
     curl: modpack
     cimage: media/demo03.jpg
 
-  - cname: Other
+  - cname: Staff Application
     curl: 
     cimage: media/demo03.jpg
 
-  - cname: Other
+  - cname: Ban Appeal
     curl: 
     cimage: media/demo03.jpg
 ---
