@@ -17,10 +17,10 @@ cellLinks:
     cimage: media/demo03.jpg
 
   - cname: Staff Application
-    curl:  staff-application
+    curl:  https://forms.gle/mzJN3pBK9vupxp9o9
     cimage: media/staffapp.png
 
   - cname: Ban Appeal
-    curl: ban-appeal
+    curl: https://forms.gle/5mTtBqjjQuFhQNyc9
     cimage: media/banappeal.jpg
 ---
