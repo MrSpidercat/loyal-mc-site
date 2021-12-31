@@ -1,6 +1,6 @@
 ---
-layout: home
-navname: Home
+layout: page2
+navname: test
 
 # Cells at the bottom of the page
 cellLinks:
