@@ -6,14 +6,14 @@ navname: Test
 cellLinks:
   - cname: Xbox
     curl: shop
-    cimage: /media/xbox.jpeg
+    cimage: /docs/media/xbox.jpeg
 
   - cname: PlayStation
     curl: playstation
-    cimage: /media/ps5.jpeg
+    cimage: /docs/media/ps5.jpeg
 
   - cname: Switch
     curl: switch
-    cimage: /media/switch.jpg
+    cimage: /docs/media/switch.jpg
 ---
 
