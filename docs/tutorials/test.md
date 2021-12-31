@@ -1,6 +1,6 @@
 ---
 layout: page2
-navname: Test
+navname: Tutorials
 
 # Cells at the bottom of the page
 cellLinks:
