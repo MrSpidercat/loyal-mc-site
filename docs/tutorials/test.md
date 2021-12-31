@@ -4,24 +4,16 @@ navname: Test
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: Rank Shop
+  - cname: Xbox
     curl: shop
-    cimage: media/demo04.jpg
+    cimage: /media/xbox.jpeg
 
-  - cname: Console Tutorials
-    curl: tutorials
-    cimage: media/consoles.jpeg
+  - cname: PlayStation
+    curl: playstation
+    cimage: /media/ps5.jpeg
 
-  - cname: Modpack
-    curl: modpack
-    cimage: media/demo03.jpg
-
-  - cname: Staff Application
-    curl:  staff-application
-    cimage: media/staffapp.png
-
-  - cname: Ban Appeal
-    curl: ban-appeal
-    cimage: media/banappeal.jpg
+  - cname: Switch
+    curl: switch
+    cimage: /media/switch.jpg
 ---
 
