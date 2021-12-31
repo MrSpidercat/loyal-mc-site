@@ -14,6 +14,6 @@ cellLinks:
 
   - cname: Switch
     curl: switch
-    cimage: switch.jpg
+    cimage: switch.jpeg
 ---
 
