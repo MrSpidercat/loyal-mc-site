@@ -26,12 +26,5 @@ This website does not collect any data, but third party integrations may collect
 - Your UUID (Universally Unique Identifier).
 - Your Players skin.
 - Your IP Address'.
-- The Messages you send.
-- The blocks you break and place.
-- Things you write on signs.
-- Commands you enter in chat.
-- The private messages you send in game.
-- Your deaths and respawns.
-- Players you kill.
-- Everytime you Login/Logout.
-- Anything that Minecraft needs to fully function as a game
+- All interactions in game
+- When you Login/Logout.
