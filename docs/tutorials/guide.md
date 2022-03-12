@@ -30,9 +30,10 @@ If you didn't already know, Loyal MC is a Bedrock and Java Edition Survival serv
 14. Ban evasion will result in an extended ban or worse. 
 15. Finding loopholes or errors in the rules isn't allowed and will result in harsh punishment. 
 16. No spam or self-promotion  (such as sending links to your or someone else's Minecraft server, Discord server, etc...)
-17. Please abide by Discord's Terms of Service https://discord.com/terms  
-
-NOTE: In-Game item trades for IRL money are not permitted on Loyal MC and our staff are not responsible for any outcome of you breaking this rule.
+17. Please abide by Discord's Terms of Service https://discord.com/terms
+18. Trading in-game items for real life money is not permitted and our staff are not responsible for any outcome of you breaking this rule.
+19. Loyal MC has no accurate ETA for any changes or updates planned, failure to follow this rule by asking repeatedly for an ETA will result in a harsh mute.
+20. Do not Ping or DM any staff member unless stated otherwise.
 
 #### Commands
 ##### General Commands
