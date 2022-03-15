@@ -8,7 +8,7 @@ showinSearchEngines: true
 
 # Set basic server info
 serverName: Loyal MC Survival
-serverDescription: Loyal MC is a Survival server that enables Java and Bedrock players to play together! We offer a fun and unique survival experience which includes skills you can level up and use to your advantage.
+serverDescription: Loyal MC is a Minecraft survival server that enables Java and Bedrock players to play together. We offer a fun and unique survival experience which includes skills you can level up and use to your advantage.
 serverIP: play.loyalmc.net
 useBedrockForOnlineStatus: false
 
