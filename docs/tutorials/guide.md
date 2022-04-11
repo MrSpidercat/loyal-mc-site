@@ -1,17 +1,17 @@
 # Loyal MC Beginners Guide
 > This guide is currently incomplete, the information present may not be accurate!
-- Introduction
-  - What is Loyal MC
-  - Rules
-- Getting Started
-  - Creating a Base
+- [Introduction](#introduction)
+  - [What is Loyal MC](#what-is-loyal-mc)
+  - [Rules](#loyal-mc-rules-these-rules-apply-to-both-our-minecraft-and-discord-server)
+- [Getting Started](#getting-started)
+  - [Creating a Base](#creating-a-base)
 </br>
 
 ## Introduction
 Hi! Welcome to Loyal MC SMP and welcome to our beginners guide. In this guide you will find information to help you get started on Loyal MC. (When following this guide we assume you know well enough how to play Minecraft)
 
 #### What is Loyal MC?
-If you didn't already know, Loyal MC is a Bedrock and Java Edition Survival server that allows Java and Bedrock players to play together in the same world! We offer a fun survival experience that you can enjoy with your friends or make new friends! Now that you know what Loyal MC is, let us get into the more detailed bits.
+Loyal MC is a Minecraft survival server that enables Java and Bedrock players to play together! We offer a fun survival experience that you can enjoy with your friends, or use to make new friends! This includes mcMMO which adds fun skills that you can grind to level up and use to your advantage. We also have clans, this allows you to form a team of people which can help you, work together, fight, steal from other clans, and even share a base. Now that you know what Loyal MC is, let us get into the more detailed bits.
 
 #### **Loyal MC Rules (These rules apply to both our Minecraft and Discord server)**
 1. No Hacks or Exploits
@@ -32,8 +32,8 @@ If you didn't already know, Loyal MC is a Bedrock and Java Edition Survival serv
 16. No spam or self-promotion  (such as sending links to your or someone else's Minecraft server, Discord server, etc...)
 17. Please abide by Discord's Terms of Service https://discord.com/terms
 18. Trading in-game items for real life money is not permitted and our staff are not responsible for any outcome of you breaking this rule.
-19. Loyal MC has no accurate ETA for any changes or updates planned, failure to follow this rule by asking repeatedly for an ETA will result in a harsh mute.
-20. Do not Ping or DM any staff member unless stated otherwise.
+19. Do not Ping or DM any staff member unless stated otherwise.
+20. We at Loyal MC want to create a positive toxicity experience, toxicity is not allowed.
 
 #### Commands
 ##### General Commands
