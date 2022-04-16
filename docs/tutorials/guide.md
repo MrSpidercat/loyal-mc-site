@@ -33,7 +33,7 @@ Loyal MC is a Minecraft survival server that enables Java and Bedrock players to
 17. Please abide by Discord's Terms of Service https://discord.com/terms
 18. Trading in-game items for real life money is not permitted and our staff are not responsible for any outcome of you breaking this rule.
 19. Do not Ping or DM any staff member unless stated otherwise.
-20. We at Loyal MC want to create a positive toxicity experience, toxicity is not allowed.
+20. We at Loyal MC want to create a positive toxicity free experience, toxicity is not allowed.
 
 #### Commands
 ##### General Commands
