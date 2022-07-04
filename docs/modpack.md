@@ -8,13 +8,10 @@ This is a Quilt/Fabric modpack with the goal of improving performance and bringi
 * Select the profiles button in the top right corner (Manage Accounts -> Add Microsoft) then follow the steps on screen to login to your Minecraft Account.
 * Select Add Instance in the top left corner.
 * Enter a name for the instance (this can be whatever you want).
-* Select Import from zip
-* Paste in this link into the box on screen ```unfinishedunfinished```
-* Select OK
-* Double click the instance/modpack to start it
+* Select Import from zip.
+* Paste in this link into the box on screen ```unfinishedunfinished```.
+* Select OK.
+* Double click the instance/modpack to start it.
 
 ### Downloads
-###### [Latest ZIP Download]()
-
-#### Legacy Downloads
-###### [1.17.1 ZIP Download](https://cdn.discordapp.com/attachments/925839339219472437/925858651720274001/Loyal_MC_Modpack_1.17.1.zip)
+###### [Latest ZIP Download]() [Not Available]
