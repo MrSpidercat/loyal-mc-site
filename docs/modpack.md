@@ -9,9 +9,9 @@ This is a Quilt/Fabric modpack with the goal of improving performance and bringi
 * Select Add Instance in the top left corner.
 * Enter a name for the instance (this can be whatever you want).
 * Select Import from zip.
-* Paste in this link into the box on screen ```unfinishedunfinished```.
+* Paste in this link into the box on screen ```https://loyalmc.net/loyal_mc_survival_modpack.zip```.
 * Select OK.
 * Double click the instance/modpack to start it.
 
 ### Downloads
-###### [Latest ZIP Download]() [Not Available]
+###### [Latest ZIP Download](https://loyalmc.net/loyal_mc_survival_modpack.zip)
