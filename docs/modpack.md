@@ -1,5 +1,5 @@
 ## Loyal MC Modpack 1.19
-This is a Quilt/Fabric modpack with the goal of improving performance and bringing important QOL features.
+This is a Quilt/Fabric modpack with the goal of improving performance and bringing amazing QOL features.
    
 ### How to install
 * [Download](https://polymc.org/download/) and Install PolyMC.
@@ -12,6 +12,7 @@ This is a Quilt/Fabric modpack with the goal of improving performance and bringi
 * Paste in this link into the box on screen ```https://loyalmc.net/loyal_mc_survival_modpack.zip```.
 * Select OK.
 * Double click the instance/modpack to start it.
+* You're finished! 
 
 ### Downloads
 ###### [Latest ZIP Download](https://loyalmc.net/loyal_mc_survival_modpack.zip)
