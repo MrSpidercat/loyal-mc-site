@@ -4,8 +4,6 @@
   - [What is Loyal MC](#what-is-loyal-mc)
   - [Rules](#loyal-mc-rules-these-rules-apply-to-both-our-minecraft-and-discord-server)
 - [Getting Started](#getting-started)
-  - [Creating a Base](#creating-a-base)
-</br>
 
 ## Introduction
 Hi! Welcome to Loyal MC SMP and welcome to our beginners guide. In this guide you will find information to help you get started on Loyal MC. (When following this guide we assume you know well enough how to play Minecraft)
