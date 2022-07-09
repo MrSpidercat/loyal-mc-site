@@ -14,5 +14,14 @@ This is a Quilt/Fabric modpack with the goal of improving performance and bringi
 * Double click the instance/modpack to start it.
 * You're finished! 
 
+### Features
+- Massive FPS Increase
+- Durability Viewer
+- View Bedrock Player Skins
+- Better Animations
+- Better Item Tooltips   
+
+*much more coming soon*
+
 ### Downloads
 ###### [Latest ZIP Download](https://loyalmc.net/loyal_mc_survival_modpack.zip)
