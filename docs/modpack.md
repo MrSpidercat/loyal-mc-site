@@ -15,8 +15,8 @@ This is a Quilt/Fabric modpack with the goal of improving performance and bringi
 * You're finished! 
 
 ### Features
-- Massive FPS Increase [Sodium, Starlight, etc...]
-- Durability Viewer
+- Game Optimizations [Sodium, Starlight, etc...]
+- Armor/Item Durability Viewer
 - View Bedrock Player Skins
 - Better Animations
 - Better Item Tooltips 
