@@ -1,5 +1,5 @@
 # Featured Ranks
-When you donate to us, you are awarded with a rank that corresponds to the amount donated. Donating will award you with perks not available to other players, although these perks are mostly cosmetic as to prevent it providing an advantage over non donating players also known as pay to win.   
+When you donate to us, you are awarded with a rank that corresponds to the amount donated. Donating will award you with perks not available to other players, although these perks are mostly cosmetic as to prevent it providing donators an advantage over non donating players.   
 
 ### **Tier 1** [I] ($2 USD and up)
 [View Info]()
@@ -8,9 +8,9 @@ When you donate to us, you are awarded with a rank that corresponds to the amoun
 ### **Tier 3** [II] ($10 USD and up)
 [View Info]()
 ### **Tier 4** [IV] ($20 USD and up)
-[View Info]()
+[View Info]()   
 
-
+   
 <details>
   <summary>Frequently Asked Questions</summary>
 
