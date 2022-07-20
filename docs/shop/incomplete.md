@@ -8,11 +8,11 @@ When you donate to us, you are awarded with a rank that corresponds to the amoun
 ### **Tier 3** [II] ($10 USD and up)
 [View Info]()
 ### **Tier 4** [IV] ($20 USD and up)
-[View Info]()   
-
-   
-<details>
-  <summary>Frequently Asked Questions</summary>
+[View Info]()  
+  
+  
+  
+## Frequently Asked Questions
 
 
 Question: Is a PayPal account required to donate?
