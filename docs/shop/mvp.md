@@ -2,9 +2,10 @@
 layout: page
 ---
 
-# MVP
+# Tier 4 (PREVIOUSLY MVP)
 ## Benefits
-- Incomplete
+- Support the server
+- Use text color in item renaming
 
 ## How To Purchase
 Purchasing a Rank On Loyal MC is very simple!
