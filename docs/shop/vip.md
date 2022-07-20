@@ -5,7 +5,7 @@ layout: page
 # Tier 1 (PREVIOUSLY VIP)
 ## Benefits
 - Support the server
-- Use text color in item renaming
+- Use color codes in anvils
 
 ## How To Purchase
 Purchasing a Rank On Loyal MC is very simple!
