@@ -16,14 +16,21 @@ This is a Quilt/Fabric modpack with the goal of improving performance and bringi
 
 ### Features
 - Game Optimizations [Sodium, Starlight, etc...]
+- Patches Various Bugs
+- View Saturation
+- Faster Dimension Switching
 - Armor/Item Durability Viewer
+- Shulker Tooltips
 - View Bedrock Player Skins
 - Better Animations
 - Better Item Tooltips 
 - Blocks Chat Reporting
 - Blocks Microsoft Telemetry
 
-*much more coming soon*
+### What is PolyMC
+"PolyMC is a free and open source Minecraft launcher forked from the MultiMC project, with the ability to manage multiple accounts, as well as instances, each with their own mods, reasource packs, and more! Our project has a much greater focus on both user-freedom, as well as the incorporation of new and exciting features and functionality." - [PolyMC Wiki](https://polymc.org/wiki/)
+
+
 
 ### Downloads
-###### [Latest ZIP Download](https://loyalmc.net/loyal_mc_survival_modpack.zip)
+###### [Instance Download](https://loyalmc.net/loyal_mc_survival_modpack.zip)
