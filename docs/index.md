@@ -4,7 +4,7 @@ navname: Home
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: Rank Shop
+  - cname: Donate
     curl: shop
     cimage: media/demo04.jpg
 
