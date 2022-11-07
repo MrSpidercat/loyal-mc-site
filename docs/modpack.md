@@ -1,5 +1,5 @@
-## Loyal MC Modpack 1.19
-This is a Quilt/Fabric modpack with the goal of improving performance and bringing amazing QOL features.
+## Loyal MC Modpack v1.19.1
+This is a Quilt/Fabric modpack with the goal of improving performance and providing useful QOL features.
    
 ### How to install
 * Download and Install [PrismLauncher](https://prismlauncher.org/download/), deselect Run Now when installer is complete.
