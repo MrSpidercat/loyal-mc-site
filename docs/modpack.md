@@ -9,7 +9,7 @@ This is a Quilt/Fabric modpack with the goal of improving performance and provid
 * Select Add Instance in the top left corner.
 * Enter a name for the instance (this can be whatever you want).
 * Select Import from zip.
-* Paste in this link into the box on screen ```https://loyalmc.net/loyal_mc_survival_modpack.zip```.
+* Paste in this link into the box on screen ```https://loyalmc.net/LMCM.zip```.
 * Select OK.
 * Double click the instance/modpack to start it.
 * You're finished! 
@@ -34,4 +34,4 @@ This is a Quilt/Fabric modpack with the goal of improving performance and provid
 
 
 ### Downloads
-###### [Instance Download](https://loyalmc.net/loyal_mc_survival_modpack.zip)
+###### [Instance Download](https://loyalmc.net/LMCM.zip)
