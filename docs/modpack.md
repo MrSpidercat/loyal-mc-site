@@ -1,4 +1,4 @@
-## Loyal MC Modpack v1.19.1
+## Loyal MC Modpack v1.19.2
 This is a Quilt/Fabric modpack with the goal of improving performance and providing useful QOL features.
    
 ### How to install
@@ -26,6 +26,7 @@ This is a Quilt/Fabric modpack with the goal of improving performance and provid
 - Better Item Tooltips 
 - Blocks Chat Reporting
 - Blocks Microsoft Telemetry
+- Inventory Searching
 
 ### What is PrismLauncher
 "PrismLauncher is a free and open source Minecraft launcher forked from the MultiMC project, with the ability to manage multiple accounts, as well as instances, each with their own mods, reasource packs, and more! Our project has a much greater focus on both user-freedom, as well as the incorporation of new and exciting features and functionality." - [PrismLauncher Wiki](https://prismlauncher.org/wiki/)
