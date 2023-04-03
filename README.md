@@ -4,4 +4,4 @@
 
 A simple, lightweight, responsive landing page template for a Minecraft server. Integrates with Discord, Minecraft server status, and GitHub Pages to host a free website.
 
-#### Powered by [Moonrise](https://github.com/coffeebank/moonrise)
+#### Fork of [Moonrise](https://github.com/coffeebank/moonrise)
