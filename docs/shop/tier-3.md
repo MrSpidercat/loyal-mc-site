@@ -2,12 +2,12 @@
 layout: page
 ---
 
-# Tier 3 (PREVIOUSLY VIP++)
+# Tier 3
 ## Benefits
 - Support the server
 - Use color codes in anvils
 
-## How To Purchase
+## How To Donate (PayPal)
 Purchasing a Rank On Loyal MC is very simple!
 - First, select the "Donate Now" button located at the bottom of this page.
 - You will be redirected to our Ko-fi Page.
@@ -16,4 +16,5 @@ Purchasing a Rank On Loyal MC is very simple!
 - **In the "Your message" box enter your Minecraft username.**
 - Select Donate and then PayPal (account not required).
 
-## [Donate Now](https://ko-fi.com/mrspidercat)
+## [Donate via PayPal](https://ko-fi.com/mrspidercat)
+## [Donate via CashApp](https://cash.app/$Karebu2328)
