@@ -1,5 +1,5 @@
-# Support Us
-When you donate to us, you are awarded with a rank that corresponds to the amount donated. Each tier will award you with perks (that do not provide a competitive advantage) not available to non-donating players.
+# Donate
+When you donate you're given a tier rank corresponding to the total amount donated. Each tier provides cosmetic perks not available to non-donating players.
 
 
 ### **Tier 1** [I] ($2 USD) 
@@ -12,4 +12,4 @@ When you donate to us, you are awarded with a rank that corresponds to the amoun
 [View Info](tier-4)
 
 ## [Donate via PayPal](https://ko-fi.com/loyalmc)
-## [Donate via CashApp](https://cash.app/$Karebu2328)
+## [Donate via Cash App](https://cash.app/$Karebu2328)
