@@ -16,5 +16,5 @@ Purchasing a Rank On Loyal MC is very simple!
 - **In the "Your message" box enter your Minecraft username.**
 - Select Donate and then PayPal (account not required).
 
-## [Donate via PayPal](https://ko-fi.com/mrspidercat)
+## [Donate via PayPal](https://ko-fi.com/loyalmc)
 ## [Donate via CashApp](https://cash.app/$Karebu2328)
